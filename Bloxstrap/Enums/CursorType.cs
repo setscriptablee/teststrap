@@ -10,9 +10,12 @@
         Inverted,
 
         [EnumSort(Order = 3)]
-        From2013,
+        Accuracy,
 
         [EnumSort(Order = 4)]
+        From2013,
+
+        [EnumSort(Order = 5)]
         From2006
     }
 }

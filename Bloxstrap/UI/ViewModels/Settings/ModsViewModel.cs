@@ -108,6 +108,15 @@ namespace Bloxstrap.UI.ViewModels.Settings
                     { @"content\textures\Cursors\DragDetector\HoverCursor.png", "Cursor.Inverted.HoverCursor.png" },
                     { @"content\textures\MouseLockedCursor.png", "Cursor.Inverted.MouseLockedCursor.png" }
                 }
+            },
+            {
+                Enums.CursorType.Accuracy, new()
+                {
+                    { @"content\textures\Cursors\KeyboardMouse\ArrowCursor.png",    "Cursor.Accuracy.ArrowCursor.png"    },
+                    { @"content\textures\Cursors\KeyboardMouse\ArrowFarCursor.png", "Cursor.Accuracy.ArrowFarCursor.png" },
+                    { @"content\textures\Cursors\KeyboardMouse\IBeamCursor.png", "Cursor.Accuracy.IBeamCursor.png" },
+                    { @"content\textures\MouseLockedCursor.png", "Cursor.Accuracy.MouseLockedCursor.png" }
+                }
             }
         });
 
