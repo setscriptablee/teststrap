@@ -1,6 +1,4 @@
-Repository archived until further notice.
-
-Teststrap is a bootstrapper where it doesn't do anything. <sub>(seriously?)<sub>
+adding random features
 
 [Current release, latest release](https://github.com/sufferedsuccess/teststrap/releases/v3.0.1.2)<br>
 
