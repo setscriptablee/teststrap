@@ -12,3 +12,7 @@ adding random features
 [badge-discord]: https://img.shields.io/badge/sufferedsuccess-444444
 
 [discord-user]:  https://discord.com/users/1358412678783045777
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=pizzaboxer/bloxstrap,returnrqt/fishstrap,realmeddsam/froststrap,froststrap/froststrap&type=date&legend=top-left&theme=dark)](https://www.star-history.com/#pizzaboxer/bloxstrap&returnrqt/fishstrap&realmeddsam/froststrap&froststrap/froststrap&type=date&legend=top-left&theme=dark)
