@@ -24,7 +24,7 @@
         public bool IsBanned { get; set; }
 
         /// <summary>
-        /// Unused, legacy attribute… rely on its existence.
+        /// Unused, legacy attribute… relies on its existence.
         /// </summary>
         [JsonPropertyName("externalAppDisplayName")]
         public string ExternalAppDisplayName { get; set; } = null!;
