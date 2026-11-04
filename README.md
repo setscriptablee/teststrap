@@ -15,4 +15,4 @@ adding random features
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=pizzaboxer/bloxstrap,returnrqt/fishstrap,realmeddsam/froststrap,froststrap/froststrap&type=date&legend=top-left&theme=dark)](https://www.star-history.com/#pizzaboxer/bloxstrap&returnrqt/fishstrap&realmeddsam/froststrap&froststrap/froststrap&type=date&legend=top-left&theme=dark)
+[![Star History Chart](https://api.star-history.com/svg?repos=pizzaboxer/bloxstrap,returnrqt/fishstrap,realmeddsam/froststrap,froststrap/froststrap&type=date&legend=top-left&theme=dark)](https://www.star-history.com/#pizzaboxer/bloxstrap&returnrqt/fishstrap&froststrap/froststrap&type=date&legend=top-left&theme=dark)
